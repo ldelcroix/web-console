@@ -1,6 +1,4 @@
 <?php
-$USER = 'user';
-$PASSWORD = 'password';
 $path = dirname(__FILE__);
 include $path.'/webconsole.settings.php';
 include $path.'/webconsole.includes.php';
